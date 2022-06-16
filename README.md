@@ -1,0 +1,2 @@
+# Contracts-Intallments-Project
+This is an Advanced PLSQL project, aims to on adding any new contract (id, start date, end date, total fees, deposit fees, payment type) in contracts table, installments number required for this contract is calculated and added in Contracts table, then the contract installation details(installment id ,contract id, installment amount , installment required dates) are calculated and automatically inserted in Installments table.
