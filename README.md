@@ -16,3 +16,4 @@ Then the trigger is used for re-calculating for every new inserted contract.
 
 -project_clarification: muted simple video to clarify project and tables structures.
 
+ 
